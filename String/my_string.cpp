@@ -1,6 +1,5 @@
 #include"my_string.h" 
 
-//не забыть удалить, для тестирования
 using namespace std;
 
 //constructors
