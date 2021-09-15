@@ -1,0 +1,35 @@
+﻿  my_string.cpp
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(23,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(40,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(61,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(70,25): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(73,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(77,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(89,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(91,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(102,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(104,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(129,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(131,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(149,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(151,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(163,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(169,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(171,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(201,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(203,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(217,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(219,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(239,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(268,16): warning C4018: >: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(311,16): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(341,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(373,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(424,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(485,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(619,25): warning C4018: >: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(699,12): warning C4018: >: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(701,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(721,12): warning C4018: >: несоответствие типов со знаком и без знака
+D:\УНИВЕР\5 СЕМ\ООП\String\String\my_string.cpp(723,20): warning C4018: <: несоответствие типов со знаком и без знака
+  String.vcxproj -> D:\УНИВЕР\5 СЕМ\ООП\String\x64\Debug\String.exe
